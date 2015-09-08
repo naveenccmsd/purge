@@ -1,4 +1,4 @@
-# Purge
+# Purge Files from server/machine
 
 
 #To find the files which is older than a date [Excluding sub directries]
